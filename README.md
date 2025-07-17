@@ -70,3 +70,13 @@ With Azure Quantum, we leverage a unified platform for developing, simulating, a
 - **Install Dependencies**:
   ```bash
   pip install -r requirements.txt
+
+| Resource                                                                                                           | Description                                                |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| [**Azure Quantum Docs**](https://learn.microsoft.com/azure/quantum/)                                               | Official Microsoft guide for Q#, Qiskit, Cirq, and more.   |
+| *Quantum Computation and Quantum Information*, Nielsen & Chuang                                                    | Theoretical foundation of quantum computing.               |
+| [**Qiskit Textbook**](https://qiskit.org/textbook)                                                                 | Interactive learning for quantum algorithms.               |
+| *Quantum Computing: An Applied Approach*, Jack D. Hidary                                                           | Hands-on book with practical examples using Qiskit & Cirq. |
+| [**Azure Quantum Samples**](https://github.com/Azure/azure-quantum-samples)                                        | Code examples from Microsoft on teleportation, VQE, etc.   |
+| [**NISQ Algorithms (Bharti et al.)**](https://arxiv.org/abs/2004.10433)                                            | In-depth overview of VQE, QAOA, and more.                  |
+| [**Microsoft Learn: Quantum Path**](https://learn.microsoft.com/training/paths/introduction-to-quantum-computing/) | Beginner-friendly quantum course from Microsoft.           |
